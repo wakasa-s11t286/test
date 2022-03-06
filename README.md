@@ -3,7 +3,8 @@
 ユーザ管理機能を実装。(for Ruby on Rails )<br/>
 ユーザ一覧(検索・フィルタ)参照/新規登録/編集/削除<br/>
 <br/>
-画面イメージはAdminLTEを使用。
+画面イメージはAdminLTEを使用。<br/>
+scaffoldをカスタマイズして作成。
 
 # DEMO
 
