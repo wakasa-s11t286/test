@@ -1,15 +1,18 @@
 # Name
 
 ユーザ管理機能を実装。(for Ruby on Rails )<br/>
-ユーザ一覧(検索・フィルタ)参照/新規登録/編集/削除・・<br/>
-（非同期）
-
+ユーザ一覧(検索・フィルタ)参照/新規登録/編集/削除<br/>
 <br/>
 画面イメージはAdminLTEを使用。
+
 # DEMO
 
 動画参照
 
+
+
+
+https://user-images.githubusercontent.com/79237619/156927062-0f5ef9d3-58df-489a-a60c-a5ff8b3ebe9e.mp4
 
 
 
